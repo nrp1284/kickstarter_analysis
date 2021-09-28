@@ -30,7 +30,7 @@ Step 6: STD and Variance calsulations
 6. Row labels are changed to display the months of the year, and the campaign outcomes are sorted in descending order
 7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png
 
-![outcomes_based_on_launchdate](resources/Theater_Outcomes_vs_Launch.png)
+![outcomes_based_on_launchdate](kickstarter_analysis/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 1. New Sheet added as "Outcomes Based on Goals."
