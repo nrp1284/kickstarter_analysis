@@ -38,7 +38,7 @@ Step 6: STD and Variance calsulations
 3. Data filtered vis Countifs() function
 4. Line chart created showing Outcome based on Goals  via worksheet and line chart
 
-![outcomes_based_on_goals](Outcomes_vs_Goals.png)
+![outcomes_based_on_goals](kickstarter_analysis/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
  1. Using countifs() function as individuals celss need modification for each columnsd and rows
