@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Louise Play Fever came close to funding goal and she wants data to know how different campaigns fared in relation with launch date and funding goals
+Louise Play "Fever" came close to funding goal and she wants data to know how different campaigns fared in relation with launch date and funding goals
 
 ### Purpose
 
