@@ -48,7 +48,7 @@ Step 6: STD and Variance calsulations
 
 7. A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png
 
-![outcomes_based_on_launchdate](resources/Theater_Outcomes_vs_Launch.png)
+![outcomes_based_on_launchdate](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
