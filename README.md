@@ -60,7 +60,7 @@ Step 6: STD and Variance calsulations
 
 4. Line chart created showing Outcome based on Goals  via worksheet and line chart
 
-![outcomes_based_on_goals](resources/Outcomes_vs_Goals.png)
+![outcomes_based_on_goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
